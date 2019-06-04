@@ -1,4 +1,4 @@
-package com.IO;
+package com.io;
 
 import com.excecoes.ExcecaoDeEnderecoInvalido;
 

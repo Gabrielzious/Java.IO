@@ -1,7 +1,6 @@
 package com.main;
 
-import com.IO.GeradorDeArquivos;
-import com.IO.LeitorDeArquivos;
+import com.io.LeitorDeArquivos;
 import com.excecoes.ExcecaoDeArquivoInexistente;
 import com.excecoes.ExcecaoDeEnderecoInvalido;
 
