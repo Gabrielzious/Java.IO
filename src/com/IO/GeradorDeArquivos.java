@@ -8,14 +8,14 @@ import java.util.Scanner;
 public class GeradorDeArquivos {
 
 
-    private String NomeGerador;
+    private String nomeGerador;
 
     public GeradorDeArquivos(String nomeGerador) {
-        NomeGerador = nomeGerador;
+        this.nomeGerador = nomeGerador;
     }
 
     public String getNomeGerador() {
-        return NomeGerador;
+        return nomeGerador;
     }
 
     public void entrada() throws ExcecaoDeEnderecoInvalido {
